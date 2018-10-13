@@ -1,1 +1,2 @@
-def meal_choise
+def meal_choise(phrase = "meat")
+  
